@@ -28,6 +28,7 @@ public class Exercicio7 {
 		System.out.println(Math.abs(duracao));
 		
 		sc.close();
+		
 	}
 
 }

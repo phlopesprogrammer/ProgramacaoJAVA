@@ -25,6 +25,7 @@ public class Exercicio5 {
 
 		} else if (cod == 4) {
 			valor = qtd * 2.0;
+			
 
 		} else {
 			valor = 1.50 * qtd;
@@ -33,6 +34,7 @@ public class Exercicio5 {
 		System.out.printf("Total: R$ %.2f%n", valor);
 		sc.close();
 
+		
 	}
 
 }

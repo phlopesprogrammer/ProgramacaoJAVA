@@ -24,6 +24,7 @@ public class Exercicio2 {
 			System.out.println(" O número " + num + " é positivo ");
 		}
 
+		
 		sc.close();
 
 	}
