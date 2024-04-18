@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Exercicio3 {
 
 	public static void main(String[] args) {
+		
 
 		/*
 		 * Fazer um programa para ler um número inteiro e dizer se este número é par ou
