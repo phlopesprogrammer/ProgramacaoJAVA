@@ -30,6 +30,7 @@ public class Exercicio9 {
 			System.out.println("Origem");
 		}
 
+	
 		sc.close();
 	}
 }
