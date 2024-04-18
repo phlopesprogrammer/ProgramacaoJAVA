@@ -19,6 +19,7 @@ public class Exercicio8 {
 		} else if (value > 50 && value <= 75) {
 			System.out.println("Dentro do Intervalo [50,75]");
 		} else if (value > 75 && value <= 100) {
+
 			System.out.println("Dentro do Intervalo[75,100]");
 		} else {
 			System.out.println("Fora do Intervalo");
