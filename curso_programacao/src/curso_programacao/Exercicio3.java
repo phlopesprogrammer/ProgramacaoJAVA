@@ -1,4 +1,4 @@
-package Exercicios;
+package curso_programacao;
 
 import java.util.Scanner;
 
